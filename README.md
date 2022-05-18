@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Moustafa Alanany</h1>
-<h3 align="center">A senior backend developer from Egypt</h3>
+<h3 align="center">A senior backend developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=36&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahemelanany&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahemelanany" /> </p>
 
